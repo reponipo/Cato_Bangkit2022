@@ -1,5 +1,9 @@
-Flask
+fastapi
+flask
 gunicorn
-tensorflow
-numpy
+uvicorn
+python-multipart
 pillow
+matplotlib
+numpy
+tensorflow
