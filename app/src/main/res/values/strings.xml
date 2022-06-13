@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Cato</string>
+    <string name="imageiconic">imageIconic</string>
+    <string name="logowelcom">LogoWelcom</string>
+    <string name="bahasa_indonesia">Indonesia</string>
+    <string name="english">English</string>
+    <string name="what_is_your_name">What is your name ?</string>
+    <string name="write_here">Your Name</string>
+    <string name="next">Next</string>
+    <string name="halo">Halo</string>
+    <string name="hari">Today is :</string>
+    <string name="tanggal">Thursday, May 26, 2022</string>
+    <string name="belajar">What do you want to learn today?</string>
+    <string name="fitur">More features</string>
+    <string name="photo">Photo</string>
+    <string name="history">History</string>
+    <string name="language">Language</string>
+    <string name="check">Check</string>
+    <string name="scan_now">Scan Now</string>
+    <string name="upload_success">File successfully uploaded</string>
+    <string name="upload_failed">ERROR: File cannot uploaded</string>
+    <string name="upload_failed2">ERROR: File cannot uploaded2</string>
+    <string name="result">Result</string>
+    <string name="nameresult">nameResult</string>
+    <string name="name_result">Name</string>
+
+
+    <string name="name_eye">EYE</string>
+    <string name="name_nose">NOSE</string>
+    <string name="name_hand">HAND</string>
+    <string name="name_mouth">MOUTH</string>
+    <string name="name_ear">EAR</string>
+
+    <string name="eye">The eye is a part of the body that has a functions as a sense of sight and organ balance. Generally humans have a pair of eyes on the right and left.When we are sad, usually our eyes will release a clear liquid which wecall it cry.</string>
+    <string name="nose">The nose is a part of the body that has a function as the sense of smell (breathing).Generally, the nose has 2 holes and there are smooth hairs to filter the air.</string>
+    <string name="hand">The hand is a part of the body that acts as a means of movement.Generally, humans have two hands, namely the right hand and the left hand.On each of our hands there are 5 fingers that we can use to write and hold.</string>
+    <string name="mouth">The mouth is a part of the body that acts as a place for food to enter and water. We also use the mouth as a tool to speak.Inside the mouth there is a tongue as a sense of taste and teeth to help chewfood.</string>
+    <string name="ear">The ear is a part of the body that acts as the sense of hearing. EarsIs also has a functions as an organ of balance along with eyes. Generally,humans have a pair of ears on the left and right.</string>
+</resources>

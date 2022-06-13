@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">Cato</string>
+    <string name="imageiconic">imageIconic</string>
+    <string name="logowelcom">LogoWelcome</string>
+    <string name="bahasa_indonesia">Indonesia</string>
+    <string name="english">English</string>
+    <string name="what_is_your_name">Siapa namamu ?</string>
+    <string name="write_here">Namamu</string>
+    <string name="next">next</string>
+    <string name="halo">Halo</string>
+    <string name="hari">Hari ini :</string>
+    <string name="tanggal">Kamis, Mei 26, 2022</string>
+    <string name="belajar">Apa yang ingin kamu pelajari hari ini?</string>
+    <string name="fitur">Fitur lain</string>
+    <string name="photo">Foto</string>
+    <string name="history">Riwayat</string>
+    <string name="language">Bahasa</string>
+    <string name="check">Cek</string>
+    <string name="scan_now">Pindai sekarang</string>
+    <string name="upload_success">Fail sukses diunggah</string>
+    <string name="upload_failed">ERROR: Fail gagal diunggah</string>
+    <string name="upload_failed2">ERROR: Fail gagal diunggah2</string>
+    <string name="result">Hasil</string>
+    <string name="nameresult">namaHasil</string>
+    <string name="name_result">Nama</string>
+
+
+    <string name="name_eye">MATA</string>
+    <string name="name_nose">HIDUNG</string>
+    <string name="name_hand">TANGAN</string>
+    <string name="name_mouth">MULUT</string>
+    <string name="name_ear">TELINGA</string>
+
+    <string name="eye">Mata adalah anggota tubuh yang berperan sebagai indera penglihatan dan organ keseimbangan. Umumnya manusia memiliki sepasang mata di kanan dan kiri.Saat kita sedang sedih biasanya mata akan mengeluarkan cairan bening yangdisebut menangis :").</string>
+    <string name="nose">THidung adalah anggota tubuh yang berperan sebagai indera penciuman(bernapas).Umumnya hidung memiliki 2 lubang dan terdapat bulu halus untuk menyaring udarayang kita hirup</string>
+    <string name="hand">Tangan adalah anggota gerak tubuh yang berperan sebagai alat gerak.Umumnya manusia memiliki dua tangan, yaitu tangan kanan dan tangan kiri.Pada masing-masing tangan kita terdapat 5 jari yang bisa kita gunakan untukmenulis dan menggenggam</string>
+    <string name="mouth">Mulut adalah anggota tubuh yang berperan sebagai tempat masuknya makanandan air. Selain itu mulut juga kita gunakan sebagai alat untuk berbicara.Didalam mulut terdapat lidah sebagai indera pengecap dan gigi untuk membantu mengunyahmakanan.</string>
+    <string name="ear">Telinga adalah anggota tubuh yang berperan sebagai indera pendengaran. Telingajuga berfungsi sebagai organ keseimbangan bersama mata. Umumnya manusia memilikisepasang telinga di kiri dan kanan.</string>
+
+</resources>
