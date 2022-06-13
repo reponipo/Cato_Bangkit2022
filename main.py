@@ -74,21 +74,21 @@ def success():
 
                 class_result, prob_result = predict(img_path, model)
 
-                predictions = {
-                    "class1": class_result[0],
-                    "class2": class_result[1],
-                    "class3": class_result[2],
-                    "prob1": prob_result[0],
-                    "prob2": prob_result[1],
-                    "prob3": prob_result[2],
-                }
+                # predictions = {
+                    # "class1": class_result[0],
+                    # "class2": class_result[1],
+                    # "class3": class_result[2],
+                    # "prob1": prob_result[0],
+                    # "prob2": prob_result[1],
+                    # "prob3": prob_result[2],
+                #  }
 
             except Exception as e:
                 print(str(e))
                 error = 'This image from this site is not accesible or inappropriate input'
 
             if (len(error) == 0):
-                return { 'message': 'success', 'image': img, 'predictions': predictions }
+                return { 'message': 'success', 'image': img, 'predictions': class_result }
                 # return render_template('success.html', img=img, predictions=predictions)
             else:
                 return {'message': 'error', 'Error': error}
@@ -104,20 +104,20 @@ def success():
 
                 class_result, prob_result = predict(img_path, model)
 
-                predictions = {
-                    "class1": class_result[0],
-                    "class2": class_result[1],
-                    "class3": class_result[2],
-                    "prob1": prob_result[0],
-                    "prob2": prob_result[1],
-                    "prob3": prob_result[2],
-                }
+                # predictions = {
+                    # "class1": class_result[0],
+                    # "class2": class_result[1],
+                    # "class3": class_result[2],
+                    # "prob1": prob_result[0],
+                    # "prob2": prob_result[1],
+                    # "prob3": prob_result[2],
+                # }
 
             else:
                 error = "Please upload images of jpg , jpeg and png extension only"
 
             if (len(error) == 0):
-                return { 'message': 'success', 'image': img, 'predictions': predictions }
+                return { 'message': 'success', 'image': img, 'predictions': class_result[0] }
                 # return render_template('success.html', img=img, predictions=predictions)
             else:
                 return {'message': 'error', 'Error': error}
